@@ -1,22 +1,53 @@
-<h1 align="center" style="color: blue;">I'm Asiful Mowla</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi, I'm Asiful Mowla 👋</h1>
+<h3 align="center">Full Stack Web Developer · Laravel · PHP · MySQL · JavaScript · Flutter</h3>
+<p align="center">📍 Noakhali, Bangladesh</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thunder5316r&label=Profile%20views&color=0e75b6&style=flat" alt="thunder5316r" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Thunder5316R](https://github.com/Thunder5316R)
-
-- 📫 How to reach me **asifulmowla231@gmail.com**
-
-- ⚡ Fun fact **Hungry learner.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100091254805306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asiful mowla" height="30" width="40" /></a>
-<a href="https://www.instagram.com/thunder5316r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thunder5316r" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://thunder5316r.github.io/portfolio.am/"><img src="https://img.shields.io/badge/Portfolio-C6FF3D?style=for-the-badge&logo=githubpages&logoColor=0C0D10" alt="Portfolio" /></a>
+  <a href="mailto:asifulmowla231@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/asiful.mowla.799304"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.linkedin.com/in/asiful-mowla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjIuMyIvPjxyZWN0IHg9IjMiIHk9IjkiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIi8%2BPHBhdGggZD0iTTkgOWgzLjh2MS44Yy42LTEuMSAyLTIuMSA0LjEtMi4xIDMuMyAwIDUuMSAyIDUuMSA1LjhWMjFoLTR2LTYuMWMwLTEuNy0uNy0yLjYtMi0yLjYtMS40IDAtMi4yIDEtMi4yIDIuN1YyMUg5eiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+I build web apps end to end, from the database and the Laravel back end to fast, responsive front ends, and more recently iPhone apps in Flutter. I have a Diploma in Engineering (Computer Science & Technology), and I'm a hungry learner.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thunder5316r&show_icons=true&locale=en&layout=compact" alt="thunder5316r" /></p>
+### 🔭 Right now
+
+- 💼 Developer at **PMG**
+- 🏆 Zonal winner of **ZeroCode**, the prompt-engineering challenge of Techfest, IIT Bombay, and selected to represent Bangladesh at the finals in December 2026
+- 🤝 Open to freelance projects and full-time roles
+
+### ✨ Featured work
+
+| Project | What it is | Links |
+|---|---|---|
+| **3D Portfolio** | My portfolio site: a chrome robot that follows your cursor, project case studies and a scoped contact brief. Three.js + Bootstrap on GitHub Pages | [Live](https://thunder5316r.github.io/portfolio.am/) · [Code](https://github.com/Thunder5316R/portfolio.am) |
+| **Client Portal App Redesign** | Redesigned and rebuilt a company-formation agency's iPhone app in Flutter, modernising the look while keeping every function of the old app | [Case study](https://thunder5316r.github.io/portfolio.am/case-study.html) |
+| **Rubik Ring Lab** | A playable 3×3×3 Rubik's cube in the browser, with every layer also drawn as a ring of beads you can drag | [Play](https://thunder5316r.github.io/Cuber/) · [Code](https://github.com/Thunder5316R/Cuber) |
+
+### 🛠️ Tech I work with
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40" />
+</p>
+
+<p align="center"><sub>Also: Three.js · REST APIs · OpenAI API · Sass · C · Java · Python · Photoshop · Illustrator</sub></p>
+
+### 📫 Get in touch
+
+The quickest way to reach me is **asifulmowla231@gmail.com**, or through the contact form on my [portfolio](https://thunder5316r.github.io/portfolio.am/#contact).
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=thunder5316r&label=Profile%20views&color=c6ff3d&style=flat" alt="Profile views" /></p>
